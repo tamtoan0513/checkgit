@@ -1,0 +1,26 @@
+18/11/2024
+Nguyễn Tam Toàn
+
+Các điều khoản cấp phép
+Một phiên bản phổ biến của Giấy phép MIT được trình bày như sau (lấy từ trang của Sáng kiến nguồn mở, tương tự như 'Giấy phép Expat', khác với giấy phép trong mã nguồn X):
+
+Bản quyền (c)  
+
+Chúng tôi cấp phép miễn phí cho bất kỳ ai nhận được bản sao phần mềm và tài liệu liên quan ('Phần mềm'), để sử dụng, sao chép, chỉnh sửa, kết hợp, xuất bản, phân phối, cấp phép phụ và/hoặc bán bản sao của Phần mềm, và cho phép những người nhận Phần mềm thực hiện điều đó, với các điều kiện sau:
+
+Thông báo bản quyền trên và thông báo cấp phép này phải được bao gồm trong tất cả các bản sao hoặc phần đáng kể của Phần mềm.
+
+PHẦN MỀM ĐƯỢC CUNG CẤP 'NHƯ CÓ' VÀ KHÔNG CÓ BẤT KỲ BẢO ĐẢM NÀO, DÙ LÀ RÕ RÀNG HAY NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN ĐẾN CÁC BẢO ĐẢM VỀ KHẢ NĂNG BÁN ĐƯỢC, ĐỦ ĐIỀU KIỆN CHO MỤC ĐÍCH CỤ THỂ VÀ KHÔNG XÂM PHẠM. TRONG MỌI TRƯỜNG HỢP, CÁC TÁC GIẢ HOẶC NGƯỜI GIỮ BẢN QUYỀN KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ KHIẾU NẠI, THIỆT HẠI HOẶC TRÁCH NHIỆM KHÁC, DÙ LÀ TRONG HÀNH ĐỘNG HỢP ĐỒNG, PHÁP LÝ HOẶC KHÁC, PHÁT SINH TỪ, RA HOẶC LIÊN QUAN ĐẾN PHẦN MỀM HOẶC VIỆC SỬ DỤNG HOẶC CÁC GIAO DỊCH KHÁC VỚI PHẦN MỀM.
+Một biến thể giấy phép trung gian mà X Consortium áp dụng cho X11 có nội dung như sau:
+
+Bản quyền (C)  X Consortium
+
+Chúng tôi cấp phép miễn phí cho bất kỳ ai nhận được bản sao phần mềm và tài liệu liên quan ('Phần mềm'), để sử dụng, sao chép, chỉnh sửa, kết hợp, xuất bản, phân phối, cấp phép phụ và/hoặc bán bản sao của Phần mềm, và cho phép những người nhận Phần mềm thực hiện điều đó, với các điều kiện sau:
+
+Thông báo bản quyền trên và thông báo cấp phép này phải được bao gồm trong tất cả các bản sao hoặc phần đáng kể của Phần mềm.
+
+PHẦN MỀM ĐƯỢC CUNG CẤP 'NHƯ CÓ' VÀ KHÔNG CÓ BẤT KỲ BẢO ĐẢM NÀO, DÙ LÀ RÕ RÀNG HAY NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN ĐẾN CÁC BẢO ĐẢM VỀ KHẢ NĂNG BÁN ĐƯỢC, ĐỦ ĐIỀU KIỆN CHO MỤC ĐÍCH CỤ THỂ VÀ KHÔNG XÂM PHẠM. TRONG MỌI TRƯỜNG HỢP, X CONSORTIUM KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ KHIẾU NẠI, THIỆT HẠI HOẶC TRÁCH NHIỆM KHÁC, DÙ LÀ TRONG HÀNH ĐỘNG HỢP ĐỒNG, PHÁP LÝ HOẶC KHÁC, PHÁT SINH TỪ, RA HOẶC LIÊN QUAN ĐẾN PHẦN MỀM HOẶC VIỆC SỬ DỤNG HOẶC CÁC GIAO DỊCH KHÁC VỚI PHẦN MỀM.
+
+Ngoài các điều đã nêu trong thông báo này, tên của X Consortium không được sử dụng trong quảng cáo hoặc để thúc đẩy việc bán, sử dụng hoặc các giao dịch khác với Phần mềm mà không có sự cho phép bằng văn bản trước từ X Consortium.
+
+Hệ thống X Window là thương hiệu của X Consortium, Inc.
